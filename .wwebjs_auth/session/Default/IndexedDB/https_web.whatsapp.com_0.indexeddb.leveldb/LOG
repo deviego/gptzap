@@ -1,0 +1,12 @@
+2023/03/11-15:24:20.983 49a4 Reusing MANIFEST E:\Programação\Projetos\gptzap\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/11-15:24:20.983 49a4 Recovering log #28
+2023/03/11-15:24:21.183 49a4 Reusing old log E:\Programação\Projetos\gptzap\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000028.log 
+2023/03/11-15:25:00.106 46c4 Level-0 table #33: started
+2023/03/11-15:25:00.341 46c4 Level-0 table #33: 1098919 bytes OK
+2023/03/11-15:25:00.387 46c4 Delete type=0 #28
+2023/03/11-15:25:00.955 25c Compacting 1@1 + 1@2 files
+2023/03/11-15:25:01.236 25c Generated table #34@1: 38102 keys, 1471455 bytes
+2023/03/11-15:25:01.236 25c Compacted 1@1 + 1@2 files => 1471455 bytes
+2023/03/11-15:25:01.286 25c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/11-15:25:01.287 25c Delete type=2 #30
+2023/03/11-15:25:01.287 25c Delete type=2 #33
